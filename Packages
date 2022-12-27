@@ -4,7 +4,7 @@ Section: Respring Logo
 Maintainer: Jods
 Architecture: iphoneos-arm
 Filename: ./debs/AndroidRespringLogo_1.0_iphoneos-arm.deb
-Size: 350
+Size: 48
 Description: Твик для snowboard, добавляет респринг лого в виде андроида.
 Name: Android Respring Logo
 Author: Jods
